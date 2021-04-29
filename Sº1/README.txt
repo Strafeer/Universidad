@@ -1,0 +1,1 @@
+Este fue mi primer trabajo para la Sº1 (Examen práctico) para Java. Adjunté el PDF con los requisitos que debía tener el programa.
